@@ -1,0 +1,14 @@
+.main {
+    padding: 1%;
+    border: 1px solid black;
+    border-style: dotted;
+    
+}
+body {
+    background-color: antiquewhite;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
