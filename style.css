@@ -12,3 +12,9 @@ body {
     align-items: center;
     flex-direction: column;
 }
+button {
+    width: 99%;
+    background-color: tomato;
+    color: white;
+    padding: 5px;
+}
