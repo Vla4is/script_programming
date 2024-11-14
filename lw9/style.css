@@ -1,0 +1,49 @@
+body {
+    font-family: 'Comic Sans MS', 'Papyrus', 'Courier New', sans-serif;
+
+}
+
+h1 {
+    font-size: 80px;
+    /* font-weight: ; */
+}
+
+p{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.b1:hover {
+    background-color: blue;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+}
+.b2:active {
+    background-color: black;
+}
+a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    color: blueviolet;
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+}
+.with_padding {
+    padding: 20%;
+    background-color: azure;
+}
+.with_margin {
+    margin: 20px;
+    background-color: blue;
+}
+.dark_theme {
+    background-color: black;
+    color: white;
+}
+.light_theme {
+    color: black;
+    background-color: white;
+}
