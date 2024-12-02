@@ -5,7 +5,7 @@ body {
     scroll-behavior: smooth;
 }
 .header {
-width: 100vw;
+/* width: 100vw; */
 height: 40vh;
 /* background-color: aqua; */
 background-image: url("img/header.jpg");
